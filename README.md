@@ -1,4 +1,10 @@
 # Catabler::Icons
+
+> [!WARNING]
+> This project is archived and no longer maintained. The published gem remains
+> available as a historical, unsupported release. There is no maintained
+> successor in the Rubykatzen organization.
+
 https://github.com/tabler/tabler-icons icon pack
 
 ## Installation
